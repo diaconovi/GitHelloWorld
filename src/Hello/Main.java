@@ -6,7 +6,7 @@ public class Main {
 	private static Logger msg = Logger.getLogger("InfoLoggin");
 	
 	public static void main(String[] args) {
-		msg.info("Holla Mundo New3");
+		msg.info("Holla Mundo New4");
 	}
 	
 }
